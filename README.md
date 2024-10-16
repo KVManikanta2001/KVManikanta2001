@@ -1,3 +1,5 @@
+###
+
 <h2 align="left">Tools and Languages</h2>
 
 ###
@@ -31,14 +33,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/kveeramanikanta" width="39" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/veeramanikanta4030@gmail.com" width="39" height="30" alt="gmail logo"  />
+  <img  href="www.linkedin.com/in/kveeramanikanta"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="30" alt="linkedin logo"  />
+  <img   href="mailto:veeramanikanta4030@gmail.com"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="30" alt="gmail logo"  />
 </div>
 
 ###
 
 <p align="left">Feel free to explore my repository 😊!!</p>
 
+###
 
 
 
