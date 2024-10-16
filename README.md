@@ -1,19 +1,3 @@
-<h1 align="left">Hi I'm Koncha Veera Manikanta 👋</h1>
-
-###
-
-<p align="left">I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, Bootstrap, Jdbc, Appache Tomcat, SQL and PLSQL , I aim to combine technical expertise with business to deliver impactful solutions.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💼  Full Stack Developer.<br>🌱 Currently enhancing my skills in HTML, CSS, JavaScript, Bootstrap, Jdbc, Appache Tomcat, SQL and PLSQL .<br>✨ Completed Full Stack Development at Naresh i  Technolgies</p>
-
-###
-
 <h2 align="left">Tools and Languages</h2>
 
 ###
@@ -47,14 +31,14 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="30" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/kveeramanikanta" width="39" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/veeramanikanta4030@gmail.com" width="39" height="30" alt="gmail logo"  />
 </div>
 
 ###
 
 <p align="left">Feel free to explore my repository 😊!!</p>
 
-###
+
 
 
