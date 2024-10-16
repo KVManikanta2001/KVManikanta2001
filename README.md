@@ -33,8 +33,8 @@
 ###
 
 <div align="left">
-  <img  href="www.linkedin.com/in/kveeramanikanta"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="30" alt="linkedin logo"  />
-  <img   href="mailto:veeramanikanta4030@gmail.com"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="30" alt="gmail logo"  />
+<a href="www.linkedin.com/in/kveeramanikanta">  <img  href="www.linkedin.com/in/kveeramanikanta"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="30" alt="linkedin logo" /></a>
+<a href="mailto:veeramanikanta4030@gmail.com">  <img   href="mailto:veeramanikanta4030@gmail.com"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="30" alt="gmail logo"  /></a>
 </div>
 
 ###
